@@ -1,0 +1,1 @@
+On this project, it'll be found individual files explaining the basic concepts of the Java programming language, since the creation of a variable, to the basics of Object Oriented Programming and the introduction of a Graphical User Interface.
